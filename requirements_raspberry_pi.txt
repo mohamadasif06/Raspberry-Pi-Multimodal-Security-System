@@ -1,0 +1,14 @@
+# Install on Raspberry Pi OS. Some packages (especially face_recognition/dlib)
+# may require system packages and compatible Python versions.
+numpy
+opencv-python
+face-recognition
+pyserial
+requests
+SpeechRecognition
+PyFingerprint
+google-auth
+google-auth-oauthlib
+google-api-python-client
+RPi.GPIO
+pyaudio
